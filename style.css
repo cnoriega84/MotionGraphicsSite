@@ -514,7 +514,7 @@ section .title::after {
 
 /*========== teams(optional) section ==========*/
 .teams .title::after {
-	content: "Done with After Effects";
+	content: "Projects";
 }
 
 .teams .carousel .card {

@@ -232,7 +232,7 @@
     .about .about-content .right p {
         font-size: .8rem;
         line-height: 15px;
-        letter-spacing: 0;
+        letter-spacing: 0px;
     }
 
     .services .service-content .card {
